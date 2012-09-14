@@ -12,9 +12,7 @@
 * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 * See the License for the specific language governing permissions and
 * limitations under the License.
-*/
-
-import bb.cascades 1.0
+*/import bb.cascades 1.0
 
 Page {
     //main content container
@@ -93,6 +91,10 @@ Page {
                         win.text = "0";
                         lose.text = "0";
                         tie.text = "0";
+                        backgroundPaint.imageSource = "asset:///images/RPSbkgrdD.png";
+                        winnerlabel.text = "";
+                        player.imageSource = "asset:///images/KRock.png";
+                        computer.imageSource = "asset:///images/DRock.png";
                     }
                     preferredWidth: 140.0
                     leftMargin: 358.0
@@ -388,9 +390,6 @@ Page {
                                 TranslateTransition {
                                     toY: 200
                                     duration: 300
-                                    onEnded: {
-                                        winnerlabel.text = "3";
-                                    }
                                 },
                                 TranslateTransition {
                                     toY: 250
@@ -399,9 +398,6 @@ Page {
                                 TranslateTransition {
                                     toY: 200
                                     duration: 300
-                                    onEnded: {
-                                        winnerlabel.text = "2";
-                                    }
                                 },
                                 TranslateTransition {
                                     toY: 250
@@ -410,9 +406,6 @@ Page {
                                 TranslateTransition {
                                     toY: 200
                                     duration: 300
-                                    onEnded: {
-                                        winnerlabel.text = "1";
-                                    }
                                 },
                                 TranslateTransition {
                                     toY: 250

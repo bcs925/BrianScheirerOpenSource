@@ -1,3 +1,47 @@
+Rock, Paper, Scissors Sample Application
+
+Rock, Paper, Scissors is an an opensource app to show off various features of Cascades in a fun way using QML
+as well as calling C++ functions for some logic.  QML objects used:
+
+StackLayout
+DockLayout
+AbsoluteLayout
+Background
+CustomDialog
+Animations
+Button
+Label
+TextField
+ImageView
+Signals/Slots
+In line JavaScript
+
+
+Only main.qml shown in actual app. stagingpage.qml and tempmain.qml left in source code to show proression of UI.  tempmain.qml
+very basic UI, stagingpage.qml creates general layout and main.qml has final layout as well as all necessary code for final app.
+
+The sample code for this application is Open Source under the Apache 2.0 License.
+
+Applies To
+
+    BlackBerry 10
+    BlackBerry Cascades Native SDK (Beta2) for BlackBerry 10
+
+Author(s)
+
+    Brian Scheirer
+
+
+To contribute code to this repository you must be signed up as an official contributor.
+How to Build
+
+To build the Rock Paper Scissors sample application:
+
+    Import into IDE as an existing project into Workspace
+
+
+
+
 ************************************************************************
 Copyright (c) 2012 Brian Scheirer
 
@@ -14,45 +58,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ************************************************************************
 
-Rock, Paper, Scissors is an an opensource app to show off various features of Cascades in a fun way using QML
- as well as calling C++ functions for some logic.  QML objects used:
 
-StackLayout
-
-DockLayout
-
-AbsoluteLayout
-
-Background
-
-CustomDialog
-
-Animations
-
-Button
-
-Label
-
-TextField
-
-ImageView
-
-Signals/Slots
-
-In line JavaScript
-
-
-
-Only main.qml shown in actual app. stagingpage.qml and tempmain.qml left in source code to show proression of UI.  tempmain.qml
-very basic UI, stagingpage.qml creates general layout and main.qml has final layout as well as all necessary code for final app.
-
-Be sure to check out http://www.bbcascadescode.tumblr.com for explanations of the code.
-
-
-
-************************************************************************
-Requirements:
-
-BlackBerry 10 Native SDK Beta 2
-
-************************************************************************
