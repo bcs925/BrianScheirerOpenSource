@@ -33,6 +33,7 @@ Author(s)
 
 
 To contribute code to this repository you must be signed up as an official contributor.
+
 How to Build
 
 To build the Rock Paper Scissors sample application:
