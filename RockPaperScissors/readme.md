@@ -1,20 +1,20 @@
 Rock, Paper, Scissors Sample Application
 
 Rock, Paper, Scissors is an an opensource app to show off various features of Cascades in a fun way using QML
-as well as calling C++ functions for some logic.  QML objects used:
+as well as calling C++ functions for some logic.  QML objects/features used:
 
-StackLayout
-DockLayout
-AbsoluteLayout
-Background
-CustomDialog
-Animations
-Button
-Label
-TextField
-ImageView
-Signals/Slots
-In line JavaScript
+StackLayout, 
+DockLayout, 
+AbsoluteLayout, 
+Background, 
+CustomDialog, 
+Animations, 
+Button, 
+Label, 
+TextField, 
+ImageView, 
+Signals/Slots, 
+In-line JavaScript
 
 
 Only main.qml shown in actual app. stagingpage.qml and tempmain.qml left in source code to show proression of UI.  tempmain.qml
