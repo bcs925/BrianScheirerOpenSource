@@ -13,12 +13,21 @@ Button,
 Label, 
 TextField, 
 ImageView, 
+Sheets, 
+RadioGroup,  
 Signals/Slots, 
 In-line JavaScript
 
 
 Only main.qml shown in actual app. stagingpage.qml and tempmain.qml left in source code to show proression of UI.  tempmain.qml
 very basic UI, stagingpage.qml creates general layout and main.qml has final layout as well as all necessary code for final app.
+
+Explanations of the code can be found at:
+http://bbcascadescode.tumblr.com/post/30503808682/rock-paper-scissors-pt-1
+http://bbcascadescode.tumblr.com/post/31427173614/rock-paper-scissors-pt-2
+http://bbcascadescode.tumblr.com/post/31539351569/rock-paper-scissors-pt-3
+or
+http://opensourcebb.com/osbbx/index.php/tutorials/23-native-tutorials/cascades-tutorials/35-rock-paper-scissors-full-tutorial
 
 The sample code for this application is Open Source under the Apache 2.0 License.
 
