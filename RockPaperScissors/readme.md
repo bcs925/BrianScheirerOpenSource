@@ -1,4 +1,4 @@
-Rock, Paper, Scissors Sample Application
+# Rock, Paper, Scissors Sample Application #
 
 Rock, Paper, Scissors is an an opensource app to show off various features of Cascades in a fun way using QML
 as well as calling C++ functions for some logic.  QML objects/features used:
@@ -22,7 +22,7 @@ In-line JavaScript
 Only main.qml shown in actual app. stagingpage.qml and tempmain.qml left in source code to show proression of UI.  tempmain.qml
 very basic UI, stagingpage.qml creates general layout and main.qml has final layout as well as all necessary code for final app.
 
-Explanations of the code can be found at:
+Explanations of the code can be found at: <br />
 http://bbcascadescode.tumblr.com/post/30503808682/rock-paper-scissors-pt-1 <br />
 http://bbcascadescode.tumblr.com/post/31427173614/rock-paper-scissors-pt-2 <br />
 http://bbcascadescode.tumblr.com/post/31539351569/rock-paper-scissors-pt-3 <br />
