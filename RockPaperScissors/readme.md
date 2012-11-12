@@ -21,7 +21,7 @@ The sample code for this application is Open Source under the Apache 2.0 License
 Applies To
 
     BlackBerry 10
-    BlackBerry Cascades Native SDK (Beta2) for BlackBerry 10
+    BlackBerry Cascades Native SDK (Beta3) for BlackBerry 10
 
 Author(s)
 
